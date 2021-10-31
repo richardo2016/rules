@@ -1,6 +1,27 @@
 [SwitchyOmega Conditions]
 @with result
 
+*.v2ex.com +ClashX
+*.ikea.cn +direct
+*.redditstatic.com +ClashX
+*.tiktok.com +ClashX
+*.cloudflare.com +ClashX
+*.gstatic.com +ClashX
+*.pornhub.com +ClashX
+*.s3.amazonaws.com +ClashX
+*.adsymptotic.com +ClashX
+*.invisionapp-cdn.com +ClashX
+*.onetrust.com +ClashX
+*.amplitude.com +ClashX
+*.doubleclick.net +ClashX
+*.facebook.net +ClashX
+*.raw.githubusercontent.com +ClashX
+*.golang.org +ClashX
+*.sentry-cdn.com +ClashX
+*.fbcdn.net +ClashX
+*.facebook.com +ClashX
+*.cdninstagram.com +ClashX
+*.instagram.com +ClashX
 *.t.co +ClashX
 *t.me +ClashX
 *openbase.com +ClashX
@@ -13,7 +34,10 @@
 *.twitter.com +ClashX
 *.twimg.com +ClashX
 *twitter.com +ClashX
-*.github-production-upload-manifest-file-7fdce7.s3.amazonaws.com +ClashX
+*.github-production-*.s3.amazonaws.com +ClashX
+*.t.co +ClashX
+*.twimg.com +ClashX
+*.twitter.com +ClashX
 *.youtu.be +ClashX
 *.postman.com +ClashX
 *.reddit.com +ClashX
@@ -88,7 +112,6 @@ onlinefontconverter.com +ClashX
 *.gravatar.com +ClashX
 *.durfee.net +ClashX
 *dlercloud* +ClashX
-*://*.zend.com//* +ClashX
 *githubusercontent.com +ClashX
 
 * +direct
